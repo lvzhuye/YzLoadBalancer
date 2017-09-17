@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YzLoadBalancer", "YzLoadBalancer\YzLoadBalancer.csproj", "{D7B97AD7-C8B3-4724-A1B5-F5D6FFD5B365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B97AD7-C8B3-4724-A1B5-F5D6FFD5B365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B97AD7-C8B3-4724-A1B5-F5D6FFD5B365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B97AD7-C8B3-4724-A1B5-F5D6FFD5B365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B97AD7-C8B3-4724-A1B5-F5D6FFD5B365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AFB1EB-9B37-447E-95B8-B55E47780AFC}
+	EndGlobalSection
+EndGlobal

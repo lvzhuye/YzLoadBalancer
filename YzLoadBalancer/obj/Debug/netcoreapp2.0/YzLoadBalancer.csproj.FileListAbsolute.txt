@@ -1,0 +1,13 @@
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\YzLoadBalancer.deps.json
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\YzLoadBalancer.runtimeconfig.json
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\YzLoadBalancer.runtimeconfig.dev.json
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\YzLoadBalancer.dll
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\bin\Debug\netcoreapp2.0\YzLoadBalancer.pdb
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\obj\Debug\netcoreapp2.0\YzLoadBalancer.csprojResolveAssemblyReference.cache
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\obj\Debug\netcoreapp2.0\YzLoadBalancer.csproj.CoreCompileInputs.cache
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\obj\Debug\netcoreapp2.0\YzLoadBalancer.AssemblyInfo.cs
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\obj\Debug\netcoreapp2.0\YzLoadBalancer.dll
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\obj\Debug\netcoreapp2.0\YzLoadBalancer.pdb
+D:\YzGitProject\YzLoadBalancerByCoreTwo\YzLoadBalancer\YzLoadBalancer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
